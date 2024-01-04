@@ -1,0 +1,14 @@
+1. Курс Хьюго Ларочеле (слайды 2-13):
+http://info.usherbrooke.ca/hlarochelle/ift725/review.pdf
+2. Обзор лин. алгебры от Эндрю Нг:
+https://see.stanford.edu/materials/aimlcs229/cs229-linalg.pdf
+3. Ipython ноутбук по линейной алгебре:
+https://github.com/ageron/handson-ml/blob/master/math_linear_algebra.ipynb
+4. Повтор оптимизации от Эндрю Нг и векторизация:
+http://cs229.stanford.edu/section/cs229-cvxopt.pdf
+http://cs229.stanford.edu/section/cs229-cvxopt2.pdf
+5. The Matrix Calculus You Need For Deep Learning
+https://arxiv.org/abs/1802.01528
+6. Matrix Cookbook
+https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+

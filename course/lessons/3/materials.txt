@@ -1,0 +1,8 @@
+1. Теория вероятности -- Kevin P. Murphy. Machine Learning: A Probabilistic Perspective
+2. Статистика и сэмплинг у Х. Ларочеле:
+http://info.usherbrooke.ca/hlarochelle/ift725/review.pdf
+3. Теория вероятности и многомерное Гауссово распр.:
+http://cs229.stanford.edu/section/cs229-prob.pdf
+http://cs229.stanford.edu/section/gaussians.pdf
+4. Probability primer
+https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4

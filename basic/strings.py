@@ -8,18 +8,15 @@ tab_string = "\t"
 print(tab_string)
 print(len(tab_string))
 
-
 non_tab_string = r"\t"
 print(non_tab_string)
 print(len(non_tab_string))
-
 
 multi_line_string = """ first line
 second line
 third line
 """
 print(multi_line_string)
-
 
 first_name = "Ivan"
 last_name = "Kyrylov"
@@ -30,4 +27,3 @@ full_name_3 = f"{first_name} {last_name}"
 
 for i in [full_name_1, full_name_2, full_name_3]:
     print(i)
-
