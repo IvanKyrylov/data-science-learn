@@ -1,0 +1,5 @@
+1. Bishop Pattern recognition and machine learning. Chapter 3
+2. Murphy Machine learning a probabilistic perspective Chapter 7
+3. Hastie et al The Elements of Statistical Learning. Chapter 3
+4. Лекция 2 в cs229
+5. https://habr.com/company/ods/blog/322076/
